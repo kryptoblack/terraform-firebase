@@ -1,7 +1,7 @@
 variable "gcp_project_name" {
   type        = string
   description = "The project name"
-  default     = "survey-sync-929"
+  default     = "survey-sync"
 }
 
 variable "gcp_region" {

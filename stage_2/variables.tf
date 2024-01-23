@@ -1,5 +1,6 @@
 variable "firebase_project_id" {
-  description = "Firebase project id"
+  description = "Firebase project ID"
   type        = string
-  default     = "survey-sync-929"
+  default     = "survey-sync"
 }
+
